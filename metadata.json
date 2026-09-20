@@ -1,0 +1,6 @@
+{
+  "name": "Arogyam Family Clinic",
+  "description": "Official website for Arogyam Family Clinic, BAIF Road, Wagholi, Pune. Trusted family healthcare, medical consultations, clinic hours, and directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
